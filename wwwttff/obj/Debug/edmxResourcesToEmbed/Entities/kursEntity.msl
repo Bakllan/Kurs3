@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище KursModelContainer" CdmEntityContainer="KursEntities">
+    <EntitySetMapping Name="userDatas">
+      <EntityTypeMapping TypeName="KursModel.userData">
+        <MappingFragment StoreEntitySet="userData">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="id_type" ColumnName="id_type" />
+          <ScalarProperty Name="sName" ColumnName="sName" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="patronymic" ColumnName="patronymic" />
+          <ScalarProperty Name="login" ColumnName="login" />
+          <ScalarProperty Name="password" ColumnName="password" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

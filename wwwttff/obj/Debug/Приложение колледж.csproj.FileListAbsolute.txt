@@ -1,0 +1,36 @@
+D:\WPF\Курс.проект\wwwttff\wwwttff\bin\Debug\Приложение колледж.exe.config
+D:\WPF\Курс.проект\wwwttff\wwwttff\bin\Debug\Приложение колледж.exe
+D:\WPF\Курс.проект\wwwttff\wwwttff\bin\Debug\Приложение колледж.pdb
+D:\WPF\Курс.проект\wwwttff\wwwttff\bin\Debug\EntityFramework.dll
+D:\WPF\Курс.проект\wwwttff\wwwttff\bin\Debug\EntityFramework.SqlServer.dll
+D:\WPF\Курс.проект\wwwttff\wwwttff\bin\Debug\EntityFramework.xml
+D:\WPF\Курс.проект\wwwttff\wwwttff\bin\Debug\EntityFramework.SqlServer.xml
+D:\WPF\Курс.проект\wwwttff\wwwttff\bin\Debug\ru\EntityFramework.resources.dll
+D:\WPF\Курс.проект\wwwttff\wwwttff\obj\Debug\Приложение колледж.csproj.AssemblyReference.cache
+D:\WPF\Курс.проект\wwwttff\wwwttff\obj\Debug\Captcha.g.cs
+D:\WPF\Курс.проект\wwwttff\wwwttff\obj\Debug\LockWindow.g.cs
+D:\WPF\Курс.проект\wwwttff\wwwttff\obj\Debug\MainWindow.g.cs
+D:\WPF\Курс.проект\wwwttff\wwwttff\obj\Debug\registration.g.cs
+D:\WPF\Курс.проект\wwwttff\wwwttff\obj\Debug\Window1.g.cs
+D:\WPF\Курс.проект\wwwttff\wwwttff\obj\Debug\Window2.g.cs
+D:\WPF\Курс.проект\wwwttff\wwwttff\obj\Debug\Window3.g.cs
+D:\WPF\Курс.проект\wwwttff\wwwttff\obj\Debug\Window4.g.cs
+D:\WPF\Курс.проект\wwwttff\wwwttff\obj\Debug\App.g.cs
+D:\WPF\Курс.проект\wwwttff\wwwttff\obj\Debug\Приложение колледж_Content.g.cs
+D:\WPF\Курс.проект\wwwttff\wwwttff\obj\Debug\Приложение колледж_MarkupCompile.cache
+D:\WPF\Курс.проект\wwwttff\wwwttff\obj\Debug\Приложение колледж_MarkupCompile.lref
+D:\WPF\Курс.проект\wwwttff\wwwttff\obj\Debug\Captcha.baml
+D:\WPF\Курс.проект\wwwttff\wwwttff\obj\Debug\LockWindow.baml
+D:\WPF\Курс.проект\wwwttff\wwwttff\obj\Debug\MainWindow.baml
+D:\WPF\Курс.проект\wwwttff\wwwttff\obj\Debug\registration.baml
+D:\WPF\Курс.проект\wwwttff\wwwttff\obj\Debug\Window1.baml
+D:\WPF\Курс.проект\wwwttff\wwwttff\obj\Debug\Window2.baml
+D:\WPF\Курс.проект\wwwttff\wwwttff\obj\Debug\Window3.baml
+D:\WPF\Курс.проект\wwwttff\wwwttff\obj\Debug\Window4.baml
+D:\WPF\Курс.проект\wwwttff\wwwttff\obj\Debug\Приложение колледж.g.resources
+D:\WPF\Курс.проект\wwwttff\wwwttff\obj\Debug\wwwttff.Properties.Resources.resources
+D:\WPF\Курс.проект\wwwttff\wwwttff\obj\Debug\Приложение колледж.csproj.GenerateResource.cache
+D:\WPF\Курс.проект\wwwttff\wwwttff\obj\Debug\Приложение колледж.csproj.CoreCompileInputs.cache
+D:\WPF\Курс.проект\wwwttff\wwwttff\obj\Debug\Приложение колледж.csproj.CopyComplete
+D:\WPF\Курс.проект\wwwttff\wwwttff\obj\Debug\Приложение колледж.exe
+D:\WPF\Курс.проект\wwwttff\wwwttff\obj\Debug\Приложение колледж.pdb

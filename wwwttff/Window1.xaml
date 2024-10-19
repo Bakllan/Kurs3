@@ -1,0 +1,63 @@
+﻿<Window x:Class="wwwttff.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:wwwttff"
+        mc:Ignorable="d"
+        Title="Window1" Height="450" Width="800" WindowStartupLocation="CenterScreen" Background="transparent">
+    <Border BorderBrush="Wheat" BorderThickness="5" CornerRadius="8">
+        <Grid>
+            <Image Source="/BGVar/libBackground.jpg" Stretch="Fill"/>
+            <Viewbox>
+                <Grid>
+                    <Border Name="mask" Background="White" CornerRadius="40" Width="250" Height="200" Margin="0,5,0,5" Opacity="0.95" BorderBrush="wheat" BorderThickness="5" />
+                    <StackPanel Orientation="Vertical" Width="220" VerticalAlignment="Center">
+                        <StackPanel.Resources>
+                            <Style TargetType="TextBox">
+                                <Setter Property="BorderBrush" Value="Wheat"/>
+                            </Style>
+                            <Style x:Key="{x:Type Label}" TargetType="Label">
+                                <Setter Property="FontFamily" Value="Times New Roman" />
+                                <Setter Property="Foreground" Value="Sienna"/>
+                            </Style>
+                            <Style x:Key="{x:Type Button}" TargetType="Button">
+                                <Setter Property="FontFamily" Value="Times New Roman" />
+                                <Setter Property="Foreground" Value="Sienna"/>
+                            </Style>
+                        </StackPanel.Resources>
+                        <Label Content="Авторизация" FontSize="20" HorizontalAlignment="Center"/>
+                        <Label Content="Логин"/>
+                        <TextBox x:Name="LogTxt" Width="200"/>
+                        <Label Content="Пароль"/>
+                        <Grid>
+                            <TextBox x:Name="PassTxt" Margin="10,0,0,10" MaxLength="16" TextChanged="PassTxt_TextChanged" Width="175" HorizontalAlignment="Left" Visibility="Hidden"/>
+                            <PasswordBox x:Name="PassMask" Margin="10,0,0,10"  MaxLength="16" Width="175" BorderBrush="Wheat" PasswordChanged="PassMask_PasswordChanged" HorizontalAlignment="Left"/>
+                            <Button Content="👁️" x:Name="ShowConPassword" Click="ShowConPassword_Click"  Height="20" Width="20" Foreground="Sienna" Background="Cornsilk" BorderBrush="Wheat" HorizontalAlignment="Left" Margin="190,0,0,0" VerticalAlignment="Top">
+                                <Button.Resources>
+                                    <Style TargetType="{x:Type Border}">
+                                        <Setter Property="CornerRadius" Value="3"/>
+                                    </Style>
+                                </Button.Resources>
+                            </Button>
+                        </Grid>
+                        <Button x:Name="btn" Content="Авторизоваться" Width="200" Margin="0,0,0,10" Click="btn_Click" Background="#FFBC73" BorderBrush="wheat" >
+                            <Button.Resources>
+                                <Style TargetType="{x:Type Border}">
+                                    <Setter Property="CornerRadius" Value="3"/>
+                                </Style>
+                            </Button.Resources>
+                        </Button>
+                        <Button x:Name="btn2" Content="Регистрация" Width="200" Margin="0,0,0,10" Click="btn2_Click" Background="#FFBC73" BorderBrush="wheat" >
+                            <Button.Resources>
+                                <Style TargetType="{x:Type Border}">
+                                    <Setter Property="CornerRadius" Value="3"/>
+                                </Style>
+                            </Button.Resources>
+                        </Button>
+                    </StackPanel>
+                </Grid>
+            </Viewbox>
+        </Grid>
+    </Border>
+</Window>

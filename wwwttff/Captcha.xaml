@@ -1,0 +1,31 @@
+﻿<Window x:Class="wwwttff.Captcha"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:wwwttff"
+        mc:Ignorable="d"
+        Title="Captcha" Height="300" Width="300" WindowStartupLocation="CenterScreen" Background="Transparent">
+    <Border CornerRadius="5" BorderBrush="Wheat" BorderThickness="5">
+        <Grid Background="White">
+            <Label Content="Captcha" HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="25" Margin="0,20,0,0" Foreground="Sienna"/>
+        <Image Source="/BGVar/shum.png" Height="50" Margin="0,0,0,60" Width="200" Stretch="Fill" VerticalAlignment="Center"/>
+        <TextBox Background="Transparent" Height="50" IsReadOnly="True" FontSize="30" Margin="0,0,0,60" TextAlignment="Center" TextDecorations="Strikethrough" FontStyle="Oblique" HorizontalAlignment="Center" Name="textBox1" VerticalAlignment="Center" Width="200"/>
+        <TextBox x:Name="inputText" BorderBrush="Wheat" FontSize="30" Height="50" Width="200" HorizontalAlignment="center" Margin="0,50,0,0"/>
+            <Button Content="Обновить" Height="30" HorizontalAlignment="Center" Margin="70,0,0,45" Name="button1" VerticalAlignment="Bottom"  Click="button1_Click" Background="#FFBC73" BorderBrush="Wheat" Foreground="Sienna">
+                <Button.Resources>
+                    <Style TargetType="{x:Type Border}">
+                        <Setter Property="CornerRadius" Value="3"/>
+                    </Style>
+                </Button.Resources>
+            </Button>
+            <Button Content="Проверить" Height="30" HorizontalAlignment="Center" Margin="0,0,70,45" Name="captcha" VerticalAlignment="Bottom"  Click="captchaClick" Background="#FFBC73" BorderBrush="Wheat" Foreground="Sienna">
+                <Button.Resources>
+                    <Style TargetType="{x:Type Border}">
+                        <Setter Property="CornerRadius" Value="3"/>
+                    </Style>
+                </Button.Resources>
+            </Button>
+    </Grid>
+    </Border>
+</Window>

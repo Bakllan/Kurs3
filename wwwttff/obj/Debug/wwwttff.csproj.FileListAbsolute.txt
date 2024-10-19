@@ -1,0 +1,127 @@
+H:\Курс.проект\wwwttff\wwwttff\bin\Debug\wwwttff.exe.config
+H:\Курс.проект\wwwttff\wwwttff\bin\Debug\wwwttff.exe
+H:\Курс.проект\wwwttff\wwwttff\bin\Debug\wwwttff.pdb
+H:\Курс.проект\wwwttff\wwwttff\obj\Debug\wwwttff.csproj.AssemblyReference.cache
+H:\Курс.проект\wwwttff\wwwttff\obj\Debug\wwwttff.csproj.SuggestedBindingRedirects.cache
+H:\Курс.проект\wwwttff\wwwttff\obj\Debug\MainWindow.g.cs
+H:\Курс.проект\wwwttff\wwwttff\obj\Debug\Window1.g.cs
+H:\Курс.проект\wwwttff\wwwttff\obj\Debug\App.g.cs
+H:\Курс.проект\wwwttff\wwwttff\obj\Debug\wwwttff_MarkupCompile.cache
+H:\Курс.проект\wwwttff\wwwttff\obj\Debug\wwwttff_MarkupCompile.lref
+H:\Курс.проект\wwwttff\wwwttff\obj\Debug\MainWindow.baml
+H:\Курс.проект\wwwttff\wwwttff\obj\Debug\Window1.baml
+H:\Курс.проект\wwwttff\wwwttff\obj\Debug\wwwttff.g.resources
+H:\Курс.проект\wwwttff\wwwttff\obj\Debug\wwwttff.Properties.Resources.resources
+H:\Курс.проект\wwwttff\wwwttff\obj\Debug\wwwttff.csproj.GenerateResource.cache
+H:\Курс.проект\wwwttff\wwwttff\obj\Debug\wwwttff.csproj.CoreCompileInputs.cache
+H:\Курс.проект\wwwttff\wwwttff\obj\Debug\wwwttff.exe
+H:\Курс.проект\wwwttff\wwwttff\obj\Debug\wwwttff.pdb
+H:\Курс.проект\wwwttff\wwwttff\obj\Debug\Window2.g.cs
+H:\Курс.проект\wwwttff\wwwttff\obj\Debug\Window3.g.cs
+H:\Курс.проект\wwwttff\wwwttff\obj\Debug\Window4.g.cs
+H:\Курс.проект\wwwttff\wwwttff\obj\Debug\Window2.baml
+H:\Курс.проект\wwwttff\wwwttff\obj\Debug\Window3.baml
+H:\Курс.проект\wwwttff\wwwttff\obj\Debug\Window4.baml
+C:\Users\maksi\OneDrive\Рабочий стол\Курс.проект\wwwttff\wwwttff\obj\Debug\wwwttff.csproj.AssemblyReference.cache
+C:\Users\maksi\OneDrive\Рабочий стол\Курс.проект\wwwttff\wwwttff\obj\Debug\MainWindow.g.cs
+C:\Users\maksi\OneDrive\Рабочий стол\Курс.проект\wwwttff\wwwttff\obj\Debug\registration.g.cs
+C:\Users\maksi\OneDrive\Рабочий стол\Курс.проект\wwwttff\wwwttff\obj\Debug\Window1.g.cs
+C:\Users\maksi\OneDrive\Рабочий стол\Курс.проект\wwwttff\wwwttff\obj\Debug\Window2.g.cs
+C:\Users\maksi\OneDrive\Рабочий стол\Курс.проект\wwwttff\wwwttff\obj\Debug\Window3.g.cs
+C:\Users\maksi\OneDrive\Рабочий стол\Курс.проект\wwwttff\wwwttff\obj\Debug\Window4.g.cs
+C:\Users\maksi\OneDrive\Рабочий стол\Курс.проект\wwwttff\wwwttff\obj\Debug\App.g.cs
+C:\Users\maksi\OneDrive\Рабочий стол\Курс.проект\wwwttff\wwwttff\obj\Debug\wwwttff_MarkupCompile.cache
+C:\Users\maksi\OneDrive\Рабочий стол\Курс.проект\wwwttff\wwwttff\obj\Debug\wwwttff_MarkupCompile.lref
+C:\Users\maksi\OneDrive\Рабочий стол\Курс.проект\wwwttff\wwwttff\obj\Debug\wwwttff.exe
+C:\Users\maksi\OneDrive\Рабочий стол\Курс.проект\wwwttff\wwwttff\obj\Debug\wwwttff.pdb
+C:\Users\maksi\OneDrive\Рабочий стол\Курс.проект\wwwttff\wwwttff\bin\Debug\wwwttff.exe.config
+C:\Users\maksi\OneDrive\Рабочий стол\Курс.проект\wwwttff\wwwttff\bin\Debug\wwwttff.exe
+C:\Users\maksi\OneDrive\Рабочий стол\Курс.проект\wwwttff\wwwttff\bin\Debug\wwwttff.pdb
+C:\Users\maksi\OneDrive\Рабочий стол\Курс.проект\wwwttff\wwwttff\bin\Debug\EntityFramework.dll
+C:\Users\maksi\OneDrive\Рабочий стол\Курс.проект\wwwttff\wwwttff\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\maksi\OneDrive\Рабочий стол\Курс.проект\wwwttff\wwwttff\bin\Debug\EntityFramework.xml
+C:\Users\maksi\OneDrive\Рабочий стол\Курс.проект\wwwttff\wwwttff\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\maksi\OneDrive\Рабочий стол\Курс.проект\wwwttff\wwwttff\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\maksi\OneDrive\Рабочий стол\Курс.проект\wwwttff\wwwttff\obj\Debug\MainWindow.baml
+C:\Users\maksi\OneDrive\Рабочий стол\Курс.проект\wwwttff\wwwttff\obj\Debug\registration.baml
+C:\Users\maksi\OneDrive\Рабочий стол\Курс.проект\wwwttff\wwwttff\obj\Debug\Window1.baml
+C:\Users\maksi\OneDrive\Рабочий стол\Курс.проект\wwwttff\wwwttff\obj\Debug\Window2.baml
+C:\Users\maksi\OneDrive\Рабочий стол\Курс.проект\wwwttff\wwwttff\obj\Debug\Window3.baml
+C:\Users\maksi\OneDrive\Рабочий стол\Курс.проект\wwwttff\wwwttff\obj\Debug\Window4.baml
+C:\Users\maksi\OneDrive\Рабочий стол\Курс.проект\wwwttff\wwwttff\obj\Debug\wwwttff.g.resources
+C:\Users\maksi\OneDrive\Рабочий стол\Курс.проект\wwwttff\wwwttff\obj\Debug\wwwttff.Properties.Resources.resources
+C:\Users\maksi\OneDrive\Рабочий стол\Курс.проект\wwwttff\wwwttff\obj\Debug\wwwttff.csproj.GenerateResource.cache
+C:\Users\maksi\OneDrive\Рабочий стол\Курс.проект\wwwttff\wwwttff\obj\Debug\wwwttff.csproj.CoreCompileInputs.cache
+C:\Users\maksi\OneDrive\Рабочий стол\Курс.проект\wwwttff\wwwttff\obj\Debug\wwwttff.csproj.CopyComplete
+C:\Users\maksi\OneDrive\Рабочий стол\Курс.проект\wwwttff\wwwttff\obj\Debug\wwwttff_Content.g.cs
+H:\Рабочий стол\Курс.проект\wwwttff\wwwttff\bin\Debug\wwwttff.exe.config
+H:\Рабочий стол\Курс.проект\wwwttff\wwwttff\bin\Debug\wwwttff.exe
+H:\Рабочий стол\Курс.проект\wwwttff\wwwttff\bin\Debug\wwwttff.pdb
+H:\Рабочий стол\Курс.проект\wwwttff\wwwttff\bin\Debug\EntityFramework.dll
+H:\Рабочий стол\Курс.проект\wwwttff\wwwttff\bin\Debug\EntityFramework.SqlServer.dll
+H:\Рабочий стол\Курс.проект\wwwttff\wwwttff\bin\Debug\EntityFramework.xml
+H:\Рабочий стол\Курс.проект\wwwttff\wwwttff\bin\Debug\EntityFramework.SqlServer.xml
+H:\Рабочий стол\Курс.проект\wwwttff\wwwttff\bin\Debug\ru\EntityFramework.resources.dll
+H:\Рабочий стол\Курс.проект\wwwttff\wwwttff\obj\Debug\wwwttff.csproj.AssemblyReference.cache
+H:\Рабочий стол\Курс.проект\wwwttff\wwwttff\obj\Debug\wwwttff.csproj.SuggestedBindingRedirects.cache
+H:\Рабочий стол\Курс.проект\wwwttff\wwwttff\obj\Debug\MainWindow.g.cs
+H:\Рабочий стол\Курс.проект\wwwttff\wwwttff\obj\Debug\registration.g.cs
+H:\Рабочий стол\Курс.проект\wwwttff\wwwttff\obj\Debug\Window1.g.cs
+H:\Рабочий стол\Курс.проект\wwwttff\wwwttff\obj\Debug\Window2.g.cs
+H:\Рабочий стол\Курс.проект\wwwttff\wwwttff\obj\Debug\Window3.g.cs
+H:\Рабочий стол\Курс.проект\wwwttff\wwwttff\obj\Debug\Window4.g.cs
+H:\Рабочий стол\Курс.проект\wwwttff\wwwttff\obj\Debug\App.g.cs
+H:\Рабочий стол\Курс.проект\wwwttff\wwwttff\obj\Debug\wwwttff_Content.g.cs
+H:\Рабочий стол\Курс.проект\wwwttff\wwwttff\obj\Debug\wwwttff_MarkupCompile.cache
+H:\Рабочий стол\Курс.проект\wwwttff\wwwttff\obj\Debug\wwwttff_MarkupCompile.lref
+H:\Рабочий стол\Курс.проект\wwwttff\wwwttff\obj\Debug\MainWindow.baml
+H:\Рабочий стол\Курс.проект\wwwttff\wwwttff\obj\Debug\registration.baml
+H:\Рабочий стол\Курс.проект\wwwttff\wwwttff\obj\Debug\Window1.baml
+H:\Рабочий стол\Курс.проект\wwwttff\wwwttff\obj\Debug\Window2.baml
+H:\Рабочий стол\Курс.проект\wwwttff\wwwttff\obj\Debug\Window3.baml
+H:\Рабочий стол\Курс.проект\wwwttff\wwwttff\obj\Debug\Window4.baml
+H:\Рабочий стол\Курс.проект\wwwttff\wwwttff\obj\Debug\wwwttff.g.resources
+H:\Рабочий стол\Курс.проект\wwwttff\wwwttff\obj\Debug\wwwttff.Properties.Resources.resources
+H:\Рабочий стол\Курс.проект\wwwttff\wwwttff\obj\Debug\wwwttff.csproj.GenerateResource.cache
+H:\Рабочий стол\Курс.проект\wwwttff\wwwttff\obj\Debug\wwwttff.csproj.CoreCompileInputs.cache
+H:\Рабочий стол\Курс.проект\wwwttff\wwwttff\obj\Debug\wwwttff.csproj.CopyComplete
+H:\Рабочий стол\Курс.проект\wwwttff\wwwttff\obj\Debug\wwwttff.exe
+H:\Рабочий стол\Курс.проект\wwwttff\wwwttff\obj\Debug\wwwttff.pdb
+H:\Рабочий стол\Курс.проект\wwwttff\wwwttff\obj\Debug\Captcha.g.cs
+H:\Рабочий стол\Курс.проект\wwwttff\wwwttff\obj\Debug\Captcha.baml
+D:\WPF\Курс.проект\wwwttff\wwwttff\bin\Debug\wwwttff.exe.config
+D:\WPF\Курс.проект\wwwttff\wwwttff\bin\Debug\wwwttff.exe
+D:\WPF\Курс.проект\wwwttff\wwwttff\bin\Debug\wwwttff.pdb
+D:\WPF\Курс.проект\wwwttff\wwwttff\bin\Debug\EntityFramework.dll
+D:\WPF\Курс.проект\wwwttff\wwwttff\bin\Debug\EntityFramework.SqlServer.dll
+D:\WPF\Курс.проект\wwwttff\wwwttff\bin\Debug\EntityFramework.xml
+D:\WPF\Курс.проект\wwwttff\wwwttff\bin\Debug\EntityFramework.SqlServer.xml
+D:\WPF\Курс.проект\wwwttff\wwwttff\bin\Debug\ru\EntityFramework.resources.dll
+D:\WPF\Курс.проект\wwwttff\wwwttff\obj\Debug\wwwttff.csproj.AssemblyReference.cache
+D:\WPF\Курс.проект\wwwttff\wwwttff\obj\Debug\Captcha.g.cs
+D:\WPF\Курс.проект\wwwttff\wwwttff\obj\Debug\MainWindow.g.cs
+D:\WPF\Курс.проект\wwwttff\wwwttff\obj\Debug\registration.g.cs
+D:\WPF\Курс.проект\wwwttff\wwwttff\obj\Debug\Window1.g.cs
+D:\WPF\Курс.проект\wwwttff\wwwttff\obj\Debug\Window2.g.cs
+D:\WPF\Курс.проект\wwwttff\wwwttff\obj\Debug\Window3.g.cs
+D:\WPF\Курс.проект\wwwttff\wwwttff\obj\Debug\Window4.g.cs
+D:\WPF\Курс.проект\wwwttff\wwwttff\obj\Debug\App.g.cs
+D:\WPF\Курс.проект\wwwttff\wwwttff\obj\Debug\wwwttff_Content.g.cs
+D:\WPF\Курс.проект\wwwttff\wwwttff\obj\Debug\wwwttff_MarkupCompile.cache
+D:\WPF\Курс.проект\wwwttff\wwwttff\obj\Debug\wwwttff_MarkupCompile.lref
+D:\WPF\Курс.проект\wwwttff\wwwttff\obj\Debug\Captcha.baml
+D:\WPF\Курс.проект\wwwttff\wwwttff\obj\Debug\MainWindow.baml
+D:\WPF\Курс.проект\wwwttff\wwwttff\obj\Debug\registration.baml
+D:\WPF\Курс.проект\wwwttff\wwwttff\obj\Debug\Window1.baml
+D:\WPF\Курс.проект\wwwttff\wwwttff\obj\Debug\Window2.baml
+D:\WPF\Курс.проект\wwwttff\wwwttff\obj\Debug\Window3.baml
+D:\WPF\Курс.проект\wwwttff\wwwttff\obj\Debug\Window4.baml
+D:\WPF\Курс.проект\wwwttff\wwwttff\obj\Debug\wwwttff.g.resources
+D:\WPF\Курс.проект\wwwttff\wwwttff\obj\Debug\wwwttff.Properties.Resources.resources
+D:\WPF\Курс.проект\wwwttff\wwwttff\obj\Debug\wwwttff.csproj.GenerateResource.cache
+D:\WPF\Курс.проект\wwwttff\wwwttff\obj\Debug\wwwttff.csproj.CoreCompileInputs.cache
+D:\WPF\Курс.проект\wwwttff\wwwttff\obj\Debug\wwwttff.csproj.CopyComplete
+D:\WPF\Курс.проект\wwwttff\wwwttff\obj\Debug\wwwttff.exe
+D:\WPF\Курс.проект\wwwttff\wwwttff\obj\Debug\wwwttff.pdb
+D:\WPF\Курс.проект\wwwttff\wwwttff\obj\Debug\LockWindow.g.cs
+D:\WPF\Курс.проект\wwwttff\wwwttff\obj\Debug\LockWindow.baml
